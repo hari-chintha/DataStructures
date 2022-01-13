@@ -45,7 +45,6 @@ namespace LinkedList.Helpers
             singleLinkedList.head = newNode;
         }
 
-
         internal static void prepend(DoubleLinkedList doubleLinkedList, int data)
         {
             var newNode = new DoubleNode(data);

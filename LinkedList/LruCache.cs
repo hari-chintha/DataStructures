@@ -75,9 +75,6 @@ namespace LinkedList
                 _count++;
             }
         }
-
-
-
     }
 
     public class Node
